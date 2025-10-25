@@ -18,7 +18,7 @@ The project involved creating and managing a PHP-based web application hosted on
 ### Cloud & Security Configuration
 #### Azure Services Used
 * Implemented for secure management of keys, secrets, and certificates.
-* Configured to enhance web application performance, enable global content delivery, and provide **Web Application Firewall** integration.
+* Configured to enhance web application performance, enable global content delivery, and provide **Web Application Firewall (WAF)** integration.
 * Includes geolocation-based filtering (e.g., blocking traffic from specific regions such as Canada).
 * SSL offloading implemented to enhance performance and security. Azure-issued TLS certificates ensure data encryption for secure HTTPS connections.
 
